@@ -18,10 +18,6 @@ class StartScreen extends StatelessWidget {
             color: const Color.fromARGB(118, 255, 255, 255),
           ),
           const SizedBox(height: 80),
-          /* const Text(
-            "Learn Flutter the fan way!",
-            style: TextStyle(color: Colors.white, fontSize: 24),
-          ), */
           Text(
             "Learn Flutter the fan way!",
             style: GoogleFonts.montserrat(
